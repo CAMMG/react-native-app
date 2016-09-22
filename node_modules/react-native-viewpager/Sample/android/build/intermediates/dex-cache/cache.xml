@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/jing/Projects/ReactNative/react-native-viewpager/Sample/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.27.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="36e26cb6307d65fd1480e7556ec071da88280722">
+        <dex dex="/home/jing/Projects/ReactNative/react-native-viewpager/Sample/android/app/build/intermediates/pre-dexed/debug/classes-c63c99ce1f27048710084152679b8259ed789742.jar" />
+    </item>
+    <item
+        jar="/home/jing/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/home/jing/Projects/ReactNative/react-native-viewpager/Sample/android/app/build/intermediates/pre-dexed/debug/okio-1.8.0-da7bc37c82cc429a8116fe026ce0c815380efc75.jar" />
+    </item>
+    <item
+        jar="/home/jing/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.2.0/1ea229d6984444c8c58b8e97ba4c8429d9d135b3/okhttp-ws-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ea229d6984444c8c58b8e97ba4c8429d9d135b3">
+        <dex dex="/home/jing/Projects/ReactNative/react-native-viewpager/Sample/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.2.0-218032ad1263ab26e1441dcfcce9dc3e97240b04.jar" />
+    </item>
+    <item
+        jar="/home/jing/Projects/ReactNative/react-native-viewpager/Sample/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/jing/Projects/ReactNative/react-native-viewpager/Sample/android/app/build/intermediates/pre-dexed/debug/classes-07550826fbef1862c340a40c7c2e5ee303eadcc4.jar" />
+    </item>
+    <item
+        jar="/home/jing/Projects/ReactNative/react-native-viewpager/Sample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="53880c6e24bb574c2f03fd0f743a268ccc502f45">
+        <dex dex="/home/jing/Projects/ReactNative/react-native-viewpager/Sample/android/app/build/intermediates/pre-dexed/debug/classes-e40749a1315fff4351a920c863c096cd5ed6308f.jar" />
+    </item>
+    <item
+        jar="/home/jing/Projects/ReactNative/react-native-viewpager/Sample/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/jing/Projects/ReactNative/react-native-viewpager/Sample/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-383f3fa19be23e5158d3db3c67f99ee953afb149.jar" />
+    </item>
+    <item
+        jar="/home/jing/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/home/jing/Projects/ReactNative/react-native-viewpager/Sample/android/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0-585dade8b3789d0b590877a7868ed56f006ca745.jar" />
+    </item>
+    <item
+        jar="/home/jing/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.2.0/6f8a4b1435c9e0a6f9c5fe4a1be46627b848fd0c/okhttp-urlconnection-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6f8a4b1435c9e0a6f9c5fe4a1be46627b848fd0c">
+        <dex dex="/home/jing/Projects/ReactNative/react-native-viewpager/Sample/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.2.0-2b4022bf0fbab017859bf9cc92018140f57595ce.jar" />
+    </item>
+    <item
+        jar="/home/jing/Projects/ReactNative/react-native-viewpager/Sample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="65f0c887ee1f57cd0ea65b228e39b7f35372b798">
+        <dex dex="/home/jing/Projects/ReactNative/react-native-viewpager/Sample/android/app/build/intermediates/pre-dexed/debug/classes-0dc63a45fbcaac7103197f6b98274fcd5383fe73.jar" />
+    </item>
+    <item
+        jar="/home/jing/Tools/android-sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/jing/Projects/ReactNative/react-native-viewpager/Sample/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-78d9fc32e66d99ed9ef64456c42b22b026ee3495.jar" />
+    </item>
+    <item
+        jar="/home/jing/Projects/ReactNative/react-native-viewpager/Sample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d323cf4983bdfce7136a1ce5e32710e1b36b20fe">
+        <dex dex="/home/jing/Projects/ReactNative/react-native-viewpager/Sample/android/app/build/intermediates/pre-dexed/debug/classes-abb205361b85d9cbbbaa04af01aba851dc0b2b1c.jar" />
+    </item>
+    <item
+        jar="/home/jing/Projects/ReactNative/react-native-viewpager/Sample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5e88a2a26ac71cd7f8fd8bd9f9381fa06d1a47a3">
+        <dex dex="/home/jing/Projects/ReactNative/react-native-viewpager/Sample/android/app/build/intermediates/pre-dexed/debug/classes-e42ad4fecd7fba540ecf65df21f52db34b4615f1.jar" />
+    </item>
+    <item
+        jar="/home/jing/Projects/ReactNative/react-native-viewpager/Sample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="857099e23430445aeb65cf703d5adf646ff280f1">
+        <dex dex="/home/jing/Projects/ReactNative/react-native-viewpager/Sample/android/app/build/intermediates/pre-dexed/debug/classes-c0b9a64345dc049ac9c4790817d98c99f212943a.jar" />
+    </item>
+    <item
+        jar="/home/jing/Projects/ReactNative/react-native-viewpager/Sample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6e1ed00013584399dbe27d45ac1fd6a9828c9fca">
+        <dex dex="/home/jing/Projects/ReactNative/react-native-viewpager/Sample/android/app/build/intermediates/pre-dexed/debug/classes-b119a28e0bbe1b3e5893b5e6e2465742988c3b69.jar" />
+    </item>
+    <item
+        jar="/home/jing/Projects/ReactNative/react-native-viewpager/Sample/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.27.2/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cbdbf93189a97ea1b78ce66efdf5c2e225833b3c">
+        <dex dex="/home/jing/Projects/ReactNative/react-native-viewpager/Sample/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-a59222be780fdbf1057e9feaec96cc6acfa963b7.jar" />
+    </item>
+
+</items>
